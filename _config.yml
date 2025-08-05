@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "My Web Page"
+title                    : "My Academic Page"
 title_separator          : "-"
 name                     : &name "Hanim Astuti"
 description              : &description "PhD Candidate . Policy Analyst . Data Enthusiast"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Hanim Astuti"
   pronouns         : "she/her"
-  bio              : "Ph.D. Candidate in Information, Florida State University"
-  location         : "Tallahassee"
-  employer         : "Florida State University"
+  bio              : "Ph.D. Student in Information, Florida State University"
+  location         : #"United States"
+  employer         : <a href="https://www.fsu.edu">"Florida State University"</a>
   uri              : "https://www.fsu.edu"
   email            : "hastuti@fsu.edu" 
 
