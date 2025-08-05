@@ -22,7 +22,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "myimage.png"
   name             : "Hanim Astuti"
   pronouns         : "she/her"
   bio              : "Ph.D. Student in Information, Florida State University"
