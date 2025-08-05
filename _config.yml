@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "My Web Page"
 title_separator          : "-"
 name                     : &name "Hanim Astuti"
-description              : &description ""
+description              : &description "PhD Candidate . Policy Analyst . Data Enthusiast"
 url                      : https://hmastuti.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
