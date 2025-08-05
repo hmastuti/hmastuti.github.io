@@ -356,9 +356,3 @@ compress_html:
   ignore:
     envs: development
 
-    nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-
